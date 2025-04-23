@@ -1,10 +1,10 @@
 [
     {
-      "ip": "сюда айпи", 
-      "port": сюда порт,
+      "ip": "51.75.232.69", 
+      "port": 1317,
       "x2": false,
-      "name": "Online Russia | 01",
-      "online": 0,
+      "name": "Space RolePlay | 01",
+      "online": 140,
       "maxonline": 500
     }
  ]
