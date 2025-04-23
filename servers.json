@@ -1,0 +1,10 @@
+[
+    {
+      "ip": "сюда айпи", 
+      "port": сюда порт,
+      "x2": false,
+      "name": "Online Russia | 01",
+      "online": 0,
+      "maxonline": 500
+    }
+ ]
